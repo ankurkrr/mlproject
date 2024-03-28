@@ -22,7 +22,7 @@ setup(
     version='0.0.1',
     author='Ankur Kumar',
     author_email='ankur.krr1@gmail.com',
-    author_secondar_email= '11.ankurkr@gmail.com'
+    author_secondar_email= '11.ankurkr@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )
